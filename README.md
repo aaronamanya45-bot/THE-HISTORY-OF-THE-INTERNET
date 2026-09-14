@@ -1,4 +1,4 @@
-The Internet: Architecture, History, Impact, and Future - Documentation
+The Internet: Architecture, History, Impact, and Future  Documentation
 
 Overview
 
